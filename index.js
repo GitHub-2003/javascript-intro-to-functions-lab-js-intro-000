@@ -4,7 +4,6 @@ function shout(string) {
 }
 
 function whisper(string) {
-}
   console.log(string)
 }
 
