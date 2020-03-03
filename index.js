@@ -1,11 +1,19 @@
-function shout(str) {
+function shout(string) {
 
 }
 
-function whisper(str) {
+function whisper(string) {
 
 }
 
-function logShout(str) {
+function logShout(string) {
+
+}
+
+function logWhisper(string) {
+
+}
+
+function sayHiToGrandma(string) {
 
 }
